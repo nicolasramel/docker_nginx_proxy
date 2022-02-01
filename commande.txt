@@ -1,0 +1,2 @@
+docker build --tag nramel/nginx-proxy .
+docker push nramel/nginx-proxy
